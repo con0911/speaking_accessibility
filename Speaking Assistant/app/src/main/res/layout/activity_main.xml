@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_margin="@dimen/tts_overlay_text_padding"
+            android:background="@drawable/rectangle_white"
+            android:text="@string/app_description_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/settingsButton"
+            android:layout_marginTop="10dp"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layout_lock_color"
+            android:text="@string/accessibility_settings" />
+
+        <Button
+            android:id="@+id/contentButton"
+            android:layout_marginTop="10dp"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layout_lock_color"
+            android:text="@string/last_speak_summary"/>
+
+        <Button
+            android:id="@+id/helpButton"
+            android:layout_marginTop="10dp"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layout_lock_color"
+            android:text="@string/settings_tutorial"/>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

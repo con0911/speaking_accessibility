@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fillarea_color">#3300bcd4</color>
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+    <color name="backgroundText">#D9ffffff</color>
+    <color name="textColor">#FF252525</color>
+    <color name="background_item">#ffffff</color>
+    <color name="tint_color_by_lcd">#5f5f5f</color>
+    <color name="background_icon_press">#99b6b5b5</color>
+    <color name="icon_color">#5f5f5f</color>
+    <color name="background">#BFFAFAFA</color>
+    <color name="background_icon_view">#80FAFAFA</color>
+</resources>

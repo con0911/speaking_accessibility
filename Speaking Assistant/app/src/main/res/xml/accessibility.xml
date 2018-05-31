@@ -1,0 +1,12 @@
+<accessibility-service
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeAllMask"
+    android:accessibilityFeedbackType="feedbackSpoken"
+    android:accessibilityFlags="flagDefault|flagReportViewIds|flagIncludeNotImportantViews|flagRequestEnhancedWebAccessibility"
+    android:notificationTimeout="100"
+    android:canRequestFilterKeyEvents="true"
+    android:canPerformGestures="true"
+    android:canRetrieveWindowContent="true"
+    android:description="@string/app_description_2"
+    android:settingsActivity="com.accessibility.speakingassistant.activity.SpeakPreferencesActivity" />
+

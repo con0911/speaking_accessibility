@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tts_overlay_text_padding">8dp</dimen>
+    <dimen name="tts_overlay_text_bottom_margin">12dp</dimen>
+
+    <dimen name="img_padding">24dp</dimen>
+
+    <dimen name="text_size">18sp</dimen>
+</resources>
